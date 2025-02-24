@@ -1,3 +1,4 @@
 create databse new;
 use new;
 create table emp(emp_id int primary key, emp_name varchar(40),mail_id int );
+123
